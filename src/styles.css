@@ -29,5 +29,73 @@ h1 {
 .img-hero {
   width: 100%;
   height: auto;
-  margin-top: 5%;
+  margin-top: 40px;
 }
+/*
+.circle {
+  position: absolute;
+  left: auto;
+  top: 40%;
+  right: 12%;
+  z-index: 1;
+  display: flex;
+  width: 250px;
+  height: 250px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: #f4bc1d;
+  box-shadow: 0 0 9px 4px rgb(0 0 0 / 4%);
+}
+
+@media screen and (max-width: 991px) {
+  .circle {
+    top: 44%;
+    right: 18%;
+    width: 150px;
+    height: 150px;
+  }
+  .u-tab-bar {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .circle {
+    top: 44%;
+    right: 18%;
+    width: 100px;
+    height: 100px;
+  }
+  .hero-section {
+    margin-top: 15%;
+  }
+  h1 {
+    font-size: 28px;
+    line-height: 40px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .circle {
+    top: 34%;
+    right: 6.5%;
+    width: 80px;
+    height: 80px;
+  }
+  h1 {
+    font-size: 22px;
+    line-height: 34px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .circle {
+    top: 33%;
+    right: 6.5%;
+    width: 70px;
+    height: 70px;
+  }
+}
+*/
