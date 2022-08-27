@@ -74,6 +74,15 @@ h1 {
   object-fit: cover;
 }
 
+.contact span {
+  font-weight: bold;
+}
+.contact-p {
+  background-color: #e8ce9d86;
+  border-radius: 6px;
+  padding: 24px 16px;
+}
+
 /*
 .circle {
   position: absolute;
