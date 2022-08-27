@@ -1,3 +1,7 @@
+:root {
+  --primary-button: #3e5df7;
+}
+
 body {
   font-family: "Lato", sans-serif;
   background-color: #fffdf7;
@@ -33,6 +37,20 @@ h1 {
 }
 
 .project-thumbnail {
+  border-radius: 6px;
+  box-shadow: 0 0 11px rgb(0 0 0 / 10%);
+  margin-bottom: 16px;
+}
+
+.text-center {
+  text-align: center;
+}
+.primary-button {
+  background-color: var(--primary-button);
+  color: white;
+  border: #7e65ed 1px solid;
+  border-radius: 6px;
+  padding: 8px 16px;
 }
 /*
 .circle {
