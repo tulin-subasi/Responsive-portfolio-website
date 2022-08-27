@@ -83,6 +83,19 @@ h1 {
   padding: 24px 16px;
 }
 
+.footer-link {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 14px;
+  font-weight: 300;
+  margin-left: 16px;
+}
+
+footer {
+  padding: 16px;
+  border-top: rgba(0, 0, 0, 0.1) 1px solid;
+  border-bottom: rgba(0, 0, 0, 0.1) 1px solid;
+}
 /*
 .circle {
   position: absolute;
